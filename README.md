@@ -3,9 +3,9 @@
 
 
 
-- 🔭  cursando ADS 
+- 🔭  Cursando ADS 
 
-- 🌱  aprendendo Desenvolvimento web ( HTML,CSS, JAVASCRIPT , PYTHON , React.js e Node.js )
+- 🌱  Aprendendo Desenvolvimento web ( HTML,CSS, JAVASCRIPT , PYTHON , React.js e Node.js )
 
 - 😄 Pronomes: ELA/DELA 
 
