@@ -5,7 +5,9 @@
 
 - 🔭  Cursando ADS 
 
-- 🌱 Desenvolvimento web ( HTML,CSS, JAVASCRIPT , PYTHON , React.js e Node.js )
+- 🌱 Desenvolvimento web ( Html,CSS, Javascript - react.js,node.js
+-                         Java - Springboot
+-                         Python - Flask  )                          )
 
 - 😄 Pronomes: ELA/DELA 
 
