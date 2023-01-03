@@ -5,7 +5,7 @@
 
 - 🔭  Cursando ADS 
 
-- 🌱 Desenvolvimento web ( Html,CSS, Javascript - react.js,node.js
+- 🌱 Desenvolvimento web ( Html,CSS,Javascript - react.js,node.js
                            Java - Springboot
                            Python - Flask  )                          
 
