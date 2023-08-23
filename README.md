@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="en">
+<html >
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Curriculum Vitae</title>
+    <title>INGRID LOUISE </title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -27,12 +27,11 @@
     </style>
 </head>
 <body>
-    <div class="container">
-
+    
 Resumo Profissional
 Desenvolvedor(a) web com experiência abrangente em tecnologias front-end e back-end, focado em soluções escaláveis e eficientes. Competente em linguagens como Java, Python e JavaScript, capaz de desenvolver aplicações web robustas e amigáveis. Comprometido em manter-me atualizado com as últimas tendências tecnológicas e aprimorar habilidades para resolver desafios complexos.
 
         
-    </div>
+
 </body>
 </html>
